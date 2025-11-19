@@ -22,8 +22,8 @@
 - [Emergency Hotline](https://sohelma.github.io/Emergency-Hotline/) — A simple web project for quick emergency contacts  
 - [G3 Architects Resources](https://sohelma.github.io/g3-architects-resources/) — Resource management website for architects  
 - [DREAMS](https://sohelma.github.io/DREAMS/) — Personal project showcasing creative designs  
-- [LAMBDA](https://sohelma.github.io/LAMBDA/) — Responsive multi-page website project  
+- [LAMBDA](https://sohelma.github.io/LAMBDA/) — Responsive Food-related website project  
 - [Active Box](https://sohelma.github.io/Active-Box/) — Interactive web application with animations  
-- [Beatles](https://sohelma.github.io/Beatles/) — Music-themed landing page with HTML, CSS, JS
+- [Beatles](https://sohelma.github.io/Beatles/) — Design-themed landing page with HTML, CSS, JS
 
 
