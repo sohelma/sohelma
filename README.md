@@ -25,4 +25,12 @@
 - [Active Box](https://sohelma.github.io/Active-Box/) — Interactive web application with animations  
 - [Beatles](https://sohelma.github.io/Beatles/) — Design-themed landing page with HTML, CSS, JS
 
+- *Car Rental Service*  
+  - **Live:** [Link](https://jocular-llama-6d4160.netlify.app/)  
+  - **Client:** [GitHub](https://github.com/sohelma/client-cars)  
+  - **Server:** [GitHub](https://github.com/sohelma/server-cars)  
+  - **Tech:** React, Node, Express, MongoDB, JWT, Tailwind
+
+
+
 
