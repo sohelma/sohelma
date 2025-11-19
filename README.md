@@ -1,7 +1,7 @@
 # Hi, I'm Sohel Mamun
 
 # 💫 About Me:
-##<br><br>Hi, I'm **Sohel Mamun** — a beginner MERN Stack Developer.  <br>I enjoy learning modern web technologies and building real projects step by step.  <br>My main focus right now is improving my skills in **React, Node.js, Express, and MongoDB**.<br><br>I love creating simple, clean and functional web applications.  <br>Every day I try to learn something new and apply it in small projects.<br><br>### 🌱 Currently Learning<br>- MERN Stack (React, Node, Express, MongoDB)  <br>- API development  <br>- Authentication & basic backend logic  <br><br>### 🎯 Goals<br>- Become a full-stack developer  <br>- Build more real-world projects  <br>- Improve clean code and problem-solving skills  <br><br>Thanks for visiting my GitHub profile! <br>
+<br><br>Hi, I'm **Sohel Mamun** — a beginner MERN Stack Developer.  <br>I enjoy learning modern web technologies and building real projects step by step.  <br>My main focus right now is improving my skills in **React, Node.js, Express, and MongoDB**.<br><br>I love creating simple, clean and functional web applications.  <br>Every day I try to learn something new and apply it in small projects.<br><br>### 🌱 Currently Learning<br>- MERN Stack (React, Node, Express, MongoDB)  <br>- API development  <br>- Authentication & basic backend logic  <br><br>### 🎯 Goals<br>- Become a full-stack developer  <br>- Build more real-world projects  <br>- Improve clean code and problem-solving skills  <br><br>Thanks for visiting my GitHub profile! <br>
 
 
 ## 🌐 Socials:
