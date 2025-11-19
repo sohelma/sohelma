@@ -1,4 +1,6 @@
 # Hi, I'm Sohel Mamun
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
 
 ## 📊 GitHub Stats
 
